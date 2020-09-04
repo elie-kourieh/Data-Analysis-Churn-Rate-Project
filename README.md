@@ -10,4 +10,5 @@ Codeflix is a fictional company invented by Codeacademy (Thanks to Codeacademy f
 3. Which segment of users should the company focus on expanding?
 
 For presentations purposes, I have also uploaded an 8-slide ppt file in which you can have access. You will find more information on the results there.
+I have used both SQL and Python for this project.
 

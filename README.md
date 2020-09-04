@@ -1,5 +1,5 @@
 # Measuring-Churn-Rates
-Analyzing user churn rates with SQL
+Analyzing user churn rates with SQL and Python
 
 Codeflix is a fictional company invented by Codeacademy (Thanks to Codeacademy for this project!). The goal of this project is to measure and compare the churn rates for the user segments. In order to figure out which segment of users Codeflix should focus on expanding, There are three important questions to answer:
 

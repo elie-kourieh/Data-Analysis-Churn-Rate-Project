@@ -1,8 +1,7 @@
 # Measuring-Churn-Rates
-Personal project provided by Codeacademy: I used SQL to answer the questions here!
+Analyzing user churn rates with SQL
 
-Codeflix is a fictional company invented by Codeacademy. The goal of this project is to measure and compare the churn rates for the user segments.
-In order to figure out which segment of users Codeflix should focus on expanding, There are three important questions to answer:
+Codeflix is a fictional company invented by Codeacademy (Thanks to Codeacademy for this project!). The goal of this project is to measure and compare the churn rates for the user segments. In order to figure out which segment of users Codeflix should focus on expanding, There are three important questions to answer:
 
 1. Which months have enough information to calculate the churn rate?
 
